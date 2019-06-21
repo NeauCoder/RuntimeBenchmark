@@ -60,7 +60,7 @@ namespace RuntimeBenchmark
         #endregion
 
         //private System.Windows.Forms.WebBrowser webBrowser1;
-        private ChromiumWebBrowser webBrowser1;
+        private ChromiumWebBrowser webBrowser1;//test
     }
 }
 
